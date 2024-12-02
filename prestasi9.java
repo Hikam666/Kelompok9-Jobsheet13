@@ -27,7 +27,6 @@ public class prestasi9 {
                         break;
                     }
 
-                    // Validasi Nama
                     System.out.print("Masukkan Nama Mahasiswa: ");
                     String nama = scanner.nextLine();
                     while (nama.trim().isEmpty()) {
